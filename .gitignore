@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+.pnpm-store/
+
+# Archivos de Bun
+.bun/
+*.bun.lockb
+
+# Archivos de compilación y salida
+/dist/
+/build/
+/out/
+.astro/
+
+# Archivos de configuración y logs
+.env*
+*.local
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Otros
+.DS_Store
+Thumbs.db
